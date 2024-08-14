@@ -1,2 +1,2 @@
 # TGformer
-TGformer: A Graph Transformer Framework for Static and Dynamic Knowledge Graph Embedding
+TGformer: A Graph Transformer Framework for Knowledge Graph Embedding
